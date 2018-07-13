@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hdr{display:none;}
+.header{display:none;}
+.boxinner{display:none;}
+.footer{display:none;}
+.button{ display:none;}
+.add-button{ display:none;}
+.print-button{ display:none;}
+.show-status{ display:none;}
+.show-status{ display:none;}
+.registered-users-wrapper{ display:none;}
+
+.back-to-index{ display:none;}
+.printshownon{ display:none;}
+.voucher-top{ display:none;}
+.flag-msg{ display:none;}
+
+.a_d_show{visibility:hidden;}
+
+.add_button{ display:none;}
+.print_button{ display:none;}
+.hidethis{ display:none;}
+.branchbutton{ display:none;}
+
+#printcenter {
+	float: none;
+	width: 20px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}

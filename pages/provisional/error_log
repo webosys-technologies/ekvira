@@ -1,0 +1,25 @@
+[02-Dec-2016 10:36:13 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[02-Dec-2016 10:36:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[02-Dec-2016 10:36:21 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[02-Dec-2016 10:36:30 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[02-Dec-2016 10:36:38 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[02-Dec-2016 10:36:43 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[02-Dec-2016 10:36:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[02-Dec-2016 13:43:03 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[10-Dec-2016 10:09:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[10-Dec-2016 10:09:15 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[10-Dec-2016 10:09:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[10-Dec-2016 10:09:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[10-Dec-2016 10:09:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[10-Dec-2016 10:10:07 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[14-Dec-2016 07:01:41 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[14-Dec-2016 07:01:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[14-Dec-2016 07:02:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[14-Dec-2016 07:02:06 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[14-Dec-2016 08:56:26 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nileshkamathe/public_html/ekvira/pages/provisional/get_state.php on line 7
+[08-Mar-2017 09:00:46 America/New_York] PHP Warning:  shell_exec() has been disabled for security reasons in /home/dreamservices/public_html/ekvira/common/Navigation.php on line 20
+[08-Mar-2017 09:02:56 America/New_York] PHP Warning:  shell_exec() has been disabled for security reasons in /home/dreamservices/public_html/ekvira/common/Navigation.php on line 20
+[08-Mar-2017 09:03:02 America/New_York] PHP Warning:  shell_exec() has been disabled for security reasons in /home/dreamservices/public_html/ekvira/common/Navigation.php on line 20
+[08-Mar-2017 09:03:34 America/New_York] PHP Warning:  shell_exec() has been disabled for security reasons in /home/dreamservices/public_html/ekvira/common/Navigation.php on line 20
+[08-Mar-2017 09:04:23 America/New_York] PHP Warning:  shell_exec() has been disabled for security reasons in /home/dreamservices/public_html/ekvira/common/Navigation.php on line 20
+[10-Mar-2017 02:24:32 America/New_York] PHP Warning:  shell_exec() has been disabled for security reasons in /home/dreamservices/public_html/ekvira/common/Navigation.php on line 20
