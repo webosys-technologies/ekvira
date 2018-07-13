@@ -668,8 +668,8 @@ body {
 
 <div class="footer">
 	<div class="wrapper">
-    	<div class="fflt">Copyright &copy; 2016 NeonSoft All Rights Reserved</div>
-        <div class="ffrt"><a href="common/developer.php?flag=non">Designed &amp; Developed by NeonSoft and Prahar IT Cell</a></div>
+    	<div class="fflt">Copyright &copy; 2016 Webosys Technologies All Rights Reserved</div>
+        <div class="ffrt"><a href="common/developer.php?flag=non">Designed &amp; Developed by Webosys Technologies</a></div>
       <div class="clear"></div>
     </div>
 </div>

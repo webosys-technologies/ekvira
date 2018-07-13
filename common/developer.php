@@ -95,7 +95,7 @@ body {
             <!-- End -->
             <strong>Developer's Information :-</strong></p>
           <p>1. Designed and Developed By<strong> Sakeeb H. Sheikh</strong>.</p>
-          <p>2. You are not autorised to use this software contact developer of this software at sakeeb.sheikh@gmail.com</strong>.</p>
+          <p>2. You are not autorised to use this software contact developer of this software at sunilmkhandare@gmail.com</strong>.</p>
         </div>
         <!-- InstanceEndEditable -->
       </div>
@@ -107,8 +107,8 @@ body {
 
 <div class="footer">
 	<div class="wrapper">
-    	  	<div class="fflt">Copyright &copy; 2016 NeonSoft All Rights Reserved</div>
-        <div class="ffrt"><a href="developer.php?flag=non">Designed &amp; Developed by NeonSoft and Prahar IT Cell</a></div>
+    	  	<div class="fflt">Copyright &copy; 2016 Webosys Technologies All Rights Reserved</div>
+        <div class="ffrt"><a href="developer.php?flag=non">Designed &amp; Developed by Webosys Technologies</a></div>
       <div class="clear"></div>
     </div>
 </div>
