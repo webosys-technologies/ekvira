@@ -6,11 +6,9 @@ application/cache/*
 !application/config/config.php
 !application/config/database.php
 
-application/config/config.php
-application/config/database.php
-application/views/center/payu_view.php
-videos
-demo
+common/dbcontroller.php
+common/connect.php
+
 
 application/logs/*
 !application/logs/index.html
